@@ -1,4 +1,4 @@
-Hi
+Hi, I'm Alec. Proffesional markdown dev
 
 ### 🔭 Projects
 
@@ -8,7 +8,7 @@ I'm currently working on a Discord bot with a couple friends: [ClapBot](https://
 
 #### Computer Science Degree
 
-I'm currently getting a Computer Science Degree at Curtin University. After each semester I public any repos that I made:
+I'm getting a Computer Science Degree at Curtin University. After each semester I public any uni repos that I make:
 
 1st Year <br> 1st Sem <br> 2019 | 1st Year <br> 2nd Sem <br> 2019 | 2nd Year <br> 1st Sem <br> 2020 | 2nd Year <br> 2nd Sem <br> 2020 | 3rd Year <br> 1st Sem <br> 2021 | 3rd Year <br> 2nd Sem <br> 2021  
 --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ I'm currently getting a Computer Science Degree at Curtin University. After each
 
 Arraybot is a Discord bot made by [Arraying](https://github.com/Arraying), I write the wiki for it: [Arraybot Wiki](https://github.com/Arraying/Arraybot/wiki)
 
-### 📫 Social Links
+### 📫 Me but in other places
 
 Discord: Alecadabra#0744
 
