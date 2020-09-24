@@ -1,4 +1,4 @@
-Hi, I'm Alec. Proffesional markdown dev
+Hi, I'm Alec.
 
 ### 🔭 Projects
 
@@ -8,7 +8,7 @@ I'm getting a Computer Science Degree at Curtin University. After each semester 
 
 1st Year <br> 1st Sem <br> 2019 | 1st Year <br> 2nd Sem <br> 2019 | 2nd Year <br> 1st Sem <br> 2020 | 2nd Year <br> 2nd Sem <br> 2020 | 3rd Year <br> 1st Sem <br> 2021 | 3rd Year <br> 2nd Sem <br> 2021  
 --- | --- | --- | --- | --- | --- |
-[OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>[DSA](https://github.com/Alecadabra/DSA) | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE)
+[OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>[DSA](https://github.com/Alecadabra/DSA) | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE) | *Current*
 
 Right now I'm in 2nd Year 2nd Semester doing Programming Languages, Mobile Application Development, Computer Graphics & Calculus 1.
 
@@ -24,6 +24,6 @@ Arraybot is a Discord bot made by [Arraying](https://github.com/Arraying), I wri
 
 Discord: Alecadabra#0744
 
-Steam: [id/Alecadabra](https://steamcommunity.com/id/alecadabra)
+Steam: [id/Alecadabra](https://steamcommunity.com/id/Alecadabra)
 
 Reddit: [u/Alecadabra](https://www.reddit.com/u/Alecadabra)
