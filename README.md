@@ -14,6 +14,6 @@ Right now I'm doing Programming Languages, Mobile Application Development, Compu
 
 Over a few weeks I developed a Discord bot with the help of a few friends: [ClapBot](https://github.com/ClapBotCo/ClapBot).
 
-#### Arraybot Documentation
+### Arraybot Documentation
 
 Arraybot is a Discord bot made by [Arraying](https://github.com/Arraying), I write the docs for it: [Arraybot Wiki](https://github.com/Arraying/Arraybot/wiki)
