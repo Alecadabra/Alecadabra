@@ -1,5 +1,7 @@
 👋 Hi, I'm Alec. I'm a Computer Science student.
 
+___
+
 ### Computer Science Degree
 
 I'm getting a Computer Science Degree at Curtin University. After each semester I make any uni repos public:
@@ -10,9 +12,13 @@ I'm getting a Computer Science Degree at Curtin University. After each semester 
 
 Right now I'm doing Programming Languages, Mobile Application Development, Computer Graphics & Calculus.
 
+___
+
 ### ClapBot
 
 Over a few weeks I developed a Discord bot with the help of a few friends: [ClapBot](https://github.com/ClapBotCo/ClapBot).
+
+___
 
 ### Arraybot Documentation
 
