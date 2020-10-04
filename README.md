@@ -1,4 +1,4 @@
-Hi, I'm Alec. I'm a Computer Science student.
+👋 Hi, I'm Alec. I'm a Computer Science student.
 
 ### Computer Science Degree
 
