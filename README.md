@@ -4,13 +4,11 @@ ___
 
 ### Computer Science Degree
 
-I'm getting a Computer Science Degree at Curtin University. After each semester I make any uni repos public:
+I'm getting a Computer Science Degree at Curtin University.
 
 1st Year <br> 1st Sem <br> 2019 | 1st Year <br> 2nd Sem <br> 2019 | 2nd Year <br> 1st Sem <br> 2020 | 2nd Year <br> 2nd Sem <br> 2020 | 3rd Year <br> 1st Sem <br> 2021 | 3rd Year <br> 2nd Sem <br> 2021  
 --- | --- | --- | --- | --- | --- |
-[OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>[DSA](https://github.com/Alecadabra/DSA) | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE) | *Current*
-
-Right now I'm doing Programming Languages, Mobile Application Development, Computer Graphics & Calculus.
+[OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>[DSA](https://github.com/Alecadabra/DSA) | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE)
 
 ___
 
