@@ -64,8 +64,8 @@ I'm getting a Computer Science degree at Curtin University. All repos listed bel
         <a href="https://github.com/Alecadabra/PL" target="_blank" rel="noopener noreferrer">
           <abbr title="Programming Languages">PL</abbr></a></a>
       </td>
-      <td rowspan="3"><i>Current</i></td>
       <td rowspan="3"></td>
+      <td rowspan="3"><i>Current</i></td>
     </tr>
     <tr>
     </tr>
