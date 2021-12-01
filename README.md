@@ -1,4 +1,4 @@
-👋 Hi, I'm Alec. I'm a Computer Science student, graduating at the end of 2021. See below for a mini-portfolio.
+👋 Hi, I'm Alec. I'm a Software Engineer that doesn't shut up about Kotlin.
 
 <details>
   <summary><i>Contact</i></summary>
@@ -8,15 +8,9 @@
   alecadabra.github@gmail.com | Alecadabra#0744
 </details>
 
-## Displacement Monitor
+## 🎓 Computer Science Degree
 
-For an internship project I made an automated displacement monitoring Android app.
-
-https://github.com/Alecadabra/DisplacementMonitor.
-
-## Computer Science Degree
-
-I'm getting a Computer Science degree at Curtin University. All repos listed below are for programming units that I've done.
+I have a Computer Science degree from Curtin University. Below are repos for all of the programming units I took as part of the degree.
 
 <table>
   <thead>
@@ -84,3 +78,9 @@ I'm getting a Computer Science degree at Curtin University. All repos listed bel
     </tr>
   </tbody>
 </table>
+
+## 📐 Displacement Monitor
+
+For an internship project I made an automated displacement monitoring Android app.
+
+https://github.com/Alecadabra/DisplacementMonitor.
