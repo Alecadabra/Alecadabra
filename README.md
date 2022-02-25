@@ -84,3 +84,11 @@ I have a Computer Science degree from Curtin University. Below are repos for all
 For an internship project I made an automated displacement monitoring Android app.
 
 https://github.com/Alecadabra/DisplacementMonitor.
+
+## 🟩 Perthle
+
+A Wordle clone side project made for my friends.
+
+https://github.com/Alecadabra/perthle.
+
+https://perthle.web.app.
