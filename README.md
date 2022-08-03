@@ -10,6 +10,8 @@
 
 ## 🎓 Computer Science Degree
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=gitea&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+
 I have a Computer Science degree from Curtin University. Below are repos for all of the programming units I took as part of the degree.
 
 <table>
@@ -81,11 +83,15 @@ I have a Computer Science degree from Curtin University. Below are repos for all
 
 ## 📐 Displacement Monitor
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec)
+
 For an internship project I made an automated displacement monitoring Android app.
 
 https://github.com/Alecadabra/DisplacementMonitor.
 
 ## 🟩 Perthle
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=FIREBASE)
 
 A Wordle clone side project made for my friends.
 
