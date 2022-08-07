@@ -1,4 +1,4 @@
-👋 Hi, I'm Alec. I'm a Software Engineer that doesn't shut up about Kotlin.
+👋 Hi, I'm Alec. I'm a Software Engineer that doesn't shut up about Kotlin
 
 <details>
   <summary><i>Contact</i></summary>
@@ -10,10 +10,10 @@
 
 ## 🎓 Computer Science Degree
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=gitea&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=gitea&logoColor=white)](https://github.com/Alecadabra/OOSE) [![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/Alecadabra/OS) [![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec)](https://github.com/Alecadabra/SEC) [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/Alecadabra/MP) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/Alecadabra/MAD) [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)](https://github.com/Alecadabra/CG) [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)](https://github.com/Alecadabra/MP)
 
-I have a Computer Science degree from Curtin University. Below are repos for all of the programming units I took as part of the degree.
-
+I have a Computer Science degree from Curtin University, below are repos for all of the programming units I took as part of the degree
+<br>
 <table>
   <thead>
     <tr>
@@ -83,18 +83,18 @@ I have a Computer Science degree from Curtin University. Below are repos for all
 
 ## 📐 Displacement Monitor
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/Alecadabra/DisplacementMonitor) [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)](https://github.com/Alecadabra/DisplacementMonitor) [![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white&color=ac29ec)](https://github.com/Alecadabra/DisplacementMonitor)
 
-For an internship project I made an automated displacement monitoring Android app.
-
-https://github.com/Alecadabra/DisplacementMonitor.
+For an internship project I made an automated displacement monitoring Android app
+<br>
+[https://github.com/Alecadabra/DisplacementMonitor `</>`](https://github.com/Alecadabra/DisplacementMonitor)
 
 ## 🟩 Perthle
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=FIREBASE)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://github.com/Alecadabra/perthle) [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=FIREBASE)](https://github.com/Alecadabra/perthle)
 
-A Wordle clone side project made for my friends.
-
-https://github.com/Alecadabra/perthle.
-
-https://perthle.web.app.
+A Wordle clone side project made for my friends
+<br>
+[https://github.com/Alecadabra/perthle `</>`](https://github.com/Alecadabra/perthle)
+<br>
+[https://perthle.web.app `🌐`](https://perthle.web.app)
