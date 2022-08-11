@@ -87,7 +87,7 @@ I have a Computer Science degree from Curtin University, below are repos for all
 
 For an internship project I made an automated displacement monitoring Android app
 <br>
-[https://github.com/Alecadabra/DisplacementMonitor `</>`](https://github.com/Alecadabra/DisplacementMonitor)
+[Alecadabra/DisplacementMonitor `</>`](https://github.com/Alecadabra/DisplacementMonitor)
 
 ## 🟩 Perthle
 
@@ -95,6 +95,6 @@ For an internship project I made an automated displacement monitoring Android ap
 
 A Wordle clone side project made for my friends
 <br>
-[https://github.com/Alecadabra/perthle `</>`](https://github.com/Alecadabra/perthle)
+[Alecadabra/perthle `</>`](https://github.com/Alecadabra/perthle)
 <br>
-[https://perthle.web.app `🌐`](https://perthle.web.app)
+[perthle.web.app `🌐`](https://perthle.web.app)
