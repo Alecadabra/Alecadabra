@@ -1,12 +1,24 @@
-👋 Hi, I'm Alec. I'm a Software Engineer that doesn't shut up about Kotlin
+👋 Hi, I'm Alec, I'm a part dev, part UX designer in Perth. These are my open source projects
+<br>
+<sub><a href="mailto:alecadabra.github@gmail.com">Contact</a></sub>
 
-<details>
-  <summary><i>Contact</i></summary>
-  
-  📧 Email | 💬 Discord
-  ---                         | ---
-  alecadabra.github@gmail.com | Alecadabra#0744
-</details>
+## 🟩 Perthle
+
+[![Flutter](https://img.shields.io/badge/Flutter-%23FFFFFF.svg?style=flat&logo=Flutter&logoColor=%23039BE5)](https://github.com/Alecadabra/perthle) [![Firebase](https://img.shields.io/badge/Firebase-%23FFFFFF.svg?style=flat&logo=FIREBASE)](https://github.com/Alecadabra/perthle) [![Actions](https://img.shields.io/badge/Actions-%23FFFFFF.svg?style=flat&logo=Github%20Actions&logoColor=%232088FF)](https://github.com/Alecadabra/perthle)
+
+I made a Wordle clone for my friends
+<br>
+[Alecadabra/perthle `</>`](https://github.com/Alecadabra/perthle)
+<br>
+[perthle.web.app `🌐`](https://perthle.web.app)
+
+## 📐 Displacement Monitor
+
+[![Android](https://img.shields.io/badge/Android-%23FFFFFF?style=flat&logo=android)](https://github.com/Alecadabra/DisplacementMonitor) [![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=flat&logo=opencv&logoColor=darkgreen)](https://github.com/Alecadabra/DisplacementMonitor) [![Kotlin](https://img.shields.io/badge/Kotlin-%23FFFFFF.svg?style=flat&logo=Kotlin&logoColor=ac29ec)](https://github.com/Alecadabra/DisplacementMonitor)
+
+For an internship project I made a machine vision displacement monitoring app for Android
+<br>
+[Alecadabra/DisplacementMonitor `</>`](https://github.com/Alecadabra/DisplacementMonitor)
 
 ## 🎓 Computer Science Degree
 
@@ -80,21 +92,3 @@ I have a Computer Science degree from Curtin University, below are repos for all
     </tr>
   </tbody>
 </table>
-
-## 📐 Displacement Monitor
-
-[![Android](https://img.shields.io/badge/Android-%23FFFFFF?style=flat&logo=android)](https://github.com/Alecadabra/DisplacementMonitor) [![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=flat&logo=opencv&logoColor=darkgreen)](https://github.com/Alecadabra/DisplacementMonitor) [![Kotlin](https://img.shields.io/badge/Kotlin-%23FFFFFF.svg?style=flat&logo=Kotlin&logoColor=ac29ec)](https://github.com/Alecadabra/DisplacementMonitor)
-
-For an internship project I made an automated displacement monitoring Android app
-<br>
-[Alecadabra/DisplacementMonitor `</>`](https://github.com/Alecadabra/DisplacementMonitor)
-
-## 🟩 Perthle
-
-[![Flutter](https://img.shields.io/badge/Flutter-%23FFFFFF.svg?style=flat&logo=Flutter&logoColor=%23039BE5)](https://github.com/Alecadabra/perthle) [![Firebase](https://img.shields.io/badge/Firebase-%23FFFFFF.svg?style=flat&logo=FIREBASE)](https://github.com/Alecadabra/perthle)
-
-A Wordle clone side project made for my friends
-<br>
-[Alecadabra/perthle `</>`](https://github.com/Alecadabra/perthle)
-<br>
-[perthle.web.app `🌐`](https://perthle.web.app)
